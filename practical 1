@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            display: flex;
+            align-items: center;
+            padding: 10px 20px;
+        }
+        header img {
+            height: 50px;
+        }
+        nav {
+            margin-left: auto;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+            color: #333;
+        }
+        nav a:hover {
+            color: #007BFF;
+        }
+        main {
+            margin: 50px 0;
+        }
+        main img {
+            max-width: 300px;
+            display: block;
+            margin: 0 auto;
+        }
+        footer {
+            padding: 20px;
+        }
+        footer img {
+            height: 40px;
+            display: block;
+            margin: 0 auto 10px;
+        }
+        footer nav a {
+            margin: 0 10px;
+            text-decoration: none;
+            font-size: 14px;
+            color: #333;
+        }
+        footer nav a:hover {
+            color: #007BFF;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <img src="lohttps://graphicsfamily.com/wp-content/uploads/2020/10/Company-logo-on-3d-glass-window-scaled.jpggo.png" alt="Company-logo-on-3d-glass-window-scaled">
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">About Us</a>
+            <a href="#">Product</a>
+            <a href="#">Contact Us</a>
+        </nav>
+    </header>
+
+    <!-- Horizontal Line -->
+    <hr>
+
+    <!-- Main Content -->
+    <main>
+        <img src="image 10.png" alt="Center-image">
+        <p>
+            Welcome to our website. We are glad to have you here. Explore our products and services!
+        </p>
+    </main>
+
+    <!-- Horizontal Line Above Footer -->
+    <hr>
+
+    <!-- Footer Section -->
+    <footer>
+        <img src="lohttps://graphicsfamily.com/wp-content/uploads/2020/10/Company-logo-on-3d-glass-window-scaled.jpggo.png" alt="Company-logo-on-3d-glass-window-scaled">
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">About Us</a>
+            <a href="#">Product</a>
+            <a href="#">Contact Us</a>
+        </nav>
+    </footer>
+
+</body>
+</html>
